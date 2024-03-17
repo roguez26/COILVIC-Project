@@ -1,4 +1,4 @@
-package mx.fei.coilvicapp.logic.estudiante;
+package mx.fei.coilvicapp.logic.Student;
 
 public class Student {
     

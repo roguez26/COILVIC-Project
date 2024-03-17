@@ -1,4 +1,4 @@
-package mx.fei.coilvicapp.logic.estudiante;
+package mx.fei.coilvicapp.logic.Student;
 
 import mx.fei.coilvicapp.dataaccess.DatabaseManager;
 import java.sql.PreparedStatement;
