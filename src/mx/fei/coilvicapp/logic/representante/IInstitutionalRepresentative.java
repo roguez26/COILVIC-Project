@@ -11,5 +11,4 @@ package mx.fei.coilvicapp.logic.representante;
 public interface IInstitutionalRepresentative {
     public int insertInstitutionalRepresentative(InstitutionalRepresentative instutionalRepresentative);
     
-
 }
